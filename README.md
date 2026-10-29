@@ -77,7 +77,7 @@ LiquidityLens-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/sandhya-it/LiquidityLens-AI.git
 cd LiquidityLens-AI
 ```
 
@@ -139,7 +139,3 @@ The proposed evaluation framework includes:
 
 ## 📌 Demo video
 
-
-
-**Built by Team LiquidityLens AI**  
-Sandhya S · Monishwaran B · Pooja Ravi · Pooja G
