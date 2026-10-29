@@ -135,7 +135,3 @@ The proposed evaluation framework includes:
 - Prediction intervals may be unreliable when historical observations are limited.
 - Cash-buffer recommendations depend on documented assumptions and available yield data.
 - Historical backtesting does not guarantee future performance.
-
-
-## 📌 Demo video
-
