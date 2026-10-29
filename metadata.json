@@ -1,0 +1,7 @@
+{
+  "name": "LiquidityLens AI — Financial Forecasting & Cash Buffer Intelligence",
+  "description": "Forecasting, Liquidity Risk and Decision Science for Indian Liquid and Overnight Mutual Funds (Zeckathon PS03).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
