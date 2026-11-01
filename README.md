@@ -137,4 +137,5 @@ The proposed evaluation framework includes:
 - Historical backtesting does not guarantee future performance.
 
 ## Demo Link ##
-https://liquidity-lens-ai-rsw6.vercel.app/
+
+https://vercel.com/aethergrid1/liquidity-lens-ai
