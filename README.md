@@ -130,6 +130,9 @@ The proposed evaluation framework includes:
 
 ## ⚠️ Limitations
 
+## Demo Link ##
+https://liquidity-lens-ai-rsw6.vercel.app/
+
 - Forecast quality depends on historical data availability and consistency.
 - Financial relationships can change over time.
 - Prediction intervals may be unreliable when historical observations are limited.
